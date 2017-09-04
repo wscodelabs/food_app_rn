@@ -14,7 +14,7 @@ import DiscountCoupon from '../component/FirstDiscount';
 
 const FoodItems=[
   {
-    label: 'Fast Food', image: require('../Images/fastfood.jpeg'), subLabel: '64 resturants listed'
+    label: 'Fast Food', image: require('../Images/fastFood12.jpeg'), subLabel: '64 resturants listed'
   },
   {
     label: 'sea Food', image: require('../Images/seafood.jpeg'), subLabel: '24 resturants listed'
